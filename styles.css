@@ -114,4 +114,16 @@ tbody {
     color: black;
 }
 
+@media screen and (max-width: 575px) {
+    .form-group {
+        position: relative;
+    }
+
+    #userbutton {
+        position: absolute;
+        top: 0;;
+        left: 15em;
+    }
+
+}
 
