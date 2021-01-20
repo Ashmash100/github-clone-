@@ -1,0 +1,117 @@
+body {
+   font-family: 'Roboto', sans-serif;
+   background-color: rgb(240, 240, 240);
+}
+
+.btn-outline-dark {
+    margin-right: 0.4em;
+    padding: 0.2em 0.7em;
+}
+
+#pagination-wrapper{
+    text-align: center;
+}
+
+i {
+    margin-right: 0.5em;
+}
+
+h2 {
+    color: white;
+    margin-bottom: 2em;
+}
+
+.jumbotron {
+    background-color: #24292e;
+}
+
+.form-control:focus {
+    outline:none;
+}
+
+img {
+    width: 5em;
+    height: 5em;
+    border-radius: 100%;
+}
+
+th {
+    width: 10em;
+}
+
+
+/* repositories */
+
+#repoarea {
+    display: none;
+   
+}
+
+p {
+    padding-right: 1em;
+    margin-bottom: 0.4em;
+}
+ 
+h4 {
+    color: white;
+    text-align: center;
+}
+
+h5 {
+    margin-bottom: 0.1em;
+}
+
+#brand,#band:hover, #brand:focus #brand  {
+    color: white;
+    text-decoration: none;
+
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.repository {
+    width: 100%;
+    height: 100vh;
+    border-right: 1px solid rgb(218, 218, 218);
+}
+
+#rep {
+    font-size: x-large;
+    margin-bottom: 0.5em;
+    
+}
+
+#repline {
+    width: 90%;
+    margin-left: 0;
+    
+}
+
+.sep-line {
+    width: 90%;
+    margin-left: 0;
+}
+
+tbody {
+    background-color: rgb(245, 245, 245);
+}
+
+.table-sm {
+    border: 1px solid rgb(211, 211, 211);
+}
+
+.fa-file-alt {
+    margin-right: 1em;
+}
+
+.fa-folder-open {
+    margin-right: 0.6em;
+}
+
+.file-a {
+    color: black;
+}
+
+
